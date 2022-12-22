@@ -14,7 +14,9 @@
 
 - 大数据专业：[Dseidhit/HITSZ-OpenDS](https://github.com/Dseidhit/HITSZ-OpenDS)
 
-- [网盘计划资料合集页](https://n92uuvwhvl.feishu.cn/docx/doxcnJJJRHkvnueihVcR5G2YF6f)
+- 网盘计划（[资料合集页](https://n92uuvwhvl.feishu.cn/docx/doxcnJJJRHkvnueihVcR5G2YF6f)）
+
+  - [经济学专业](https://n92uuvwhvl.feishu.cn/docx/doxcn54zmDKkQ0fIEk62IWtd0xb)
 
 以下为未有课程攻略的专业的独立项目：
 
