@@ -14,6 +14,8 @@
 
 - 大数据专业：[Dseidhit/HITSZ-OpenDS](https://github.com/Dseidhit/HITSZ-OpenDS)
 
+- [网盘计划资料合集页](https://n92uuvwhvl.feishu.cn/docx/doxcnJJJRHkvnueihVcR5G2YF6f)
+
 以下为未有课程攻略的专业的独立项目：
 
 - [bugstop/hitsz-eie-codes](https://github.com/bugstop/hitsz-eie-codes)：电信学院 通信工程 部分实验课程代码仓库
