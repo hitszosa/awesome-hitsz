@@ -44,9 +44,15 @@
   
   - [CH3CHOHCH3/NetworkLogin](https://github.com/CH3CHOHCH3/NetworkLogin)
 
+- 体测分数计算器
+
+  - [Clouder0/pecalc](https://github.com/Clouder0/pecalc)
+
 ## “自救群”
 
 各年级学生自发组织的 QQ 群，内含各类学习资料。
+
+- 2023 级：869217877
 
 - 2022 级：819560128
 
