@@ -40,9 +40,13 @@
   
   - 本研教学服务（官方）
 
-- 校园网登录脚本
+- 校园网登录脚本（NodeJS）
   
   - [CH3CHOHCH3/NetworkLogin](https://github.com/CH3CHOHCH3/NetworkLogin)
+ 
+- 校园网登录脚本（Go）
+
+  - [hstable/SRUN_LOGIN](https://github.com/hstable/SRUN_LOGIN)
 
 - 体测分数计算器
 
