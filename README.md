@@ -10,7 +10,7 @@
 
 - 计算机专业：[hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS)
 
-- 自动化专业：[lmh12138/HITSZ-OpenAuto](https://github.com/lmh12138/HITSZ-OpenAuto)
+- 自动化专业：[HITSZ-Auto/HITSZ-OpenAuto](https://github.com/HITSZ-Auto/HITSZ-OpenAuto)
 
 - 大数据专业：[Dseidhit/HITSZ-OpenDS](https://github.com/Dseidhit/HITSZ-OpenDS)
 
@@ -65,3 +65,5 @@
 欢迎通过 Pull Request 添加自己的组织。
 
 - HITsz Linux User Group：[@hitszlug](https://github.com/hitszlug)
+
+- HITSZ-Auto: [@HITSZ-Auto](https://github.com/HITSZ-Auto)
