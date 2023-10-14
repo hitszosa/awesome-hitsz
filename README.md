@@ -2,7 +2,7 @@
 
 收集哈深学生可能用得上的项目，为它们提供一个导航。请给这些项目打上一个 Star！
 
-硬广一条：校内资源快速跳转，欢迎使用 [lug.pub](https://www.lug.pub/)！
+硬广一条：校内资源快速跳转，欢迎使用 [osa.moe](https://osa.moe/)！
 
 ## 课程攻略（本科）
 
@@ -64,6 +64,6 @@
 
 欢迎通过 Pull Request 添加自己的组织。
 
-- HITsz Linux User Group：[@hitszlug](https://github.com/hitszlug)
+- HITSZ 开源技术协会：[@hitszosa](https://github.com/hitszosa)
 
 - HITSZ-Auto: [@HITSZ-Auto](https://github.com/HITSZ-Auto)
