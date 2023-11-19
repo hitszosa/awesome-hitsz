@@ -10,7 +10,7 @@
 
 - 计算机专业：[hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS)
 
-- 自动化专业：[HITSZ-Auto/HITSZ-OpenAuto](https://github.com/HITSZ-Auto/HITSZ-OpenAuto)
+- 自动化专业：[HITSZ-OpenAuto/HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto) 或 https://hoa.moe 
 
 - 大数据专业：[Dseidhit/HITSZ-OpenDS](https://github.com/Dseidhit/HITSZ-OpenDS)
 
@@ -66,4 +66,4 @@
 
 - HITSZ 开源技术协会：[@hitszosa](https://github.com/hitszosa)
 
-- HITSZ-Auto: [@HITSZ-Auto](https://github.com/HITSZ-Auto)
+- HITSZ-OpenAuto: [@HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto)
