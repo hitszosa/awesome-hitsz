@@ -1,12 +1,14 @@
-# Awesome HITsz
+# Awesome HITSZ
 
-收集哈深学生可能用得上的项目，为它们提供一个导航。请给这些项目打上一个 Star！
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+收集哈深学生可能用得上的项目，为它们提供一个导航。请给这些项目打上一个 star！
 
 硬广一条：校内资源快速跳转，欢迎使用 [osa.moe](https://osa.moe/)！
 
 ## 课程攻略（本科）
 
-包含电子版教材、笔记、试卷等，以下排名按项目创建时间：
+包含电子版教材、笔记、试卷等，以下排名按项目创建时间升序：
 
 - 计算机专业：[hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS)
 
@@ -20,35 +22,41 @@
 
 以下为未有课程攻略的专业的独立项目：
 
-- [bugstop/hitsz-eie-codes](https://github.com/bugstop/hitsz-eie-codes)：电信学院 通信工程 部分实验课程代码仓库
+- [bugstop/hitsz-eie-codes](https://github.com/bugstop/hitsz-eie-codes)：电信学院通信工程部分实验课程代码仓库
 
-## 报告/幻灯片模版
+## 报告、幻灯片模版
 
 适用于 $\LaTeX$ 等排版系统的模版。
 
-- 学位论文模版
-  
-  - [YangLaTeX/hitszthesis](https://github.com/YangLaTeX/hitszthesis)
+### 学位论文
 
-- 幻灯片模版
-  
-  - [YangLaTeX/hitszbeamer](https://github.com/YangLaTeX/hitszbeamer)
+- [YangLaTeX/hitszthesis](https://github.com/YangLaTeX/hitszthesis)
+
+### 幻灯片
+
+- [YangLaTeX/hitszbeamer](https://github.com/YangLaTeX/hitszbeamer)
 
 ## 实用程序
 
-- 教务
-  
-  - 本研教学服务（官方）
+### 教务
 
-- 校园网登录脚本
-  
-  - [CH3CHOHCH3/NetworkLogin](https://github.com/CH3CHOHCH3/NetworkLogin)
+  - [本研教学服务（官方）](http://due.hitsz.edu.cn/info/1433/3562.htm)
 
-- 体测分数计算器
+### 课表
 
-  - [Clouder0/pecalc](https://github.com/Clouder0/pecalc)
+- [rewired-gh/hitsz_course_schedule_ics_converter](https://github.com/rewired-gh/hitsz_course_schedule_ics_converter)：自动获取与 ICS 生成脚本
+- [doby.tech](https://doby.tech)：课表 CalDAV 服务平台
+- [StupidTrees/HITA_X](https://github.com/StupidTrees/HITA_X)：Android 课表 app
 
-## “自救群”
+### 校园网登录脚本
+
+- [CH3CHOHCH3/NetworkLogin](https://github.com/CH3CHOHCH3/NetworkLogin)
+
+### 其他
+
+- [Clouder0/pecalc](https://github.com/Clouder0/pecalc)：体测分数计算器
+
+## 「自救群」
 
 各年级学生自发组织的 QQ 群，内含各类学习资料。
 
@@ -66,4 +74,4 @@
 
 - HITSZ 开源技术协会：[@hitszosa](https://github.com/hitszosa)
 
-- HITSZ-OpenAuto: [@HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto)
+- HITSZ-OpenAuto：[@HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto)
