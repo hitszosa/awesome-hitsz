@@ -1,7 +1,5 @@
 # Awesome HITSZ
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 收集哈深学生可能用得上的项目，为它们提供一个导航。请给这些项目打上一个 star！
 
 硬广一条：校内资源快速跳转，欢迎使用 [osa.moe](https://osa.moe/)！
@@ -75,3 +73,7 @@
 - HITSZ 开源技术协会：[@hitszosa](https://github.com/hitszosa)
 
 - HITSZ-OpenAuto：[@HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto)
+
+---
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
