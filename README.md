@@ -50,6 +50,10 @@
 
 - [CH3CHOHCH3/NetworkLogin](https://github.com/CH3CHOHCH3/NetworkLogin)
 
+### EasyConnect VPN 第三方客户端
+
+- [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows)
+
 ### 其他
 
 - [Clouder0/pecalc](https://github.com/Clouder0/pecalc)：体测分数计算器
