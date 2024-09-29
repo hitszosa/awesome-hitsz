@@ -52,7 +52,9 @@
 
 ### EasyConnect VPN 第三方客户端
 
-- [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows)
+- [Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect)
+  - 需要将 `server_address` 配置为 `vpn.hitsz.ed.cn`，`zju_dns_server` 配置为 `10.248.98.30`
+  - 或者使用预先配置好的桌面客户端 [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows)
 
 ### 其他
 
