@@ -56,6 +56,9 @@
   - 需要将 `server_address` 配置为 `vpn.hitsz.ed.cn`，`zju_dns_server` 配置为 `10.248.98.30`
   - 或者使用预先配置好的桌面客户端 [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows)
 
+- [docker-easyconnect](https://github.com/Hagb/docker-easyconnect)
+  - 使用 Docker 封装 EasyConnect，为宿主机提供 SOCKS5 和 HTTP 代理服务。该项目可以结合 Chrome 插件 ProxyOmega 使用，允许用户灵活管理和切换代理设置。
+
 ### 其他
 
 - [Clouder0/pecalc](https://github.com/Clouder0/pecalc)：体测分数计算器
