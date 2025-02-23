@@ -45,6 +45,7 @@
 - [rewired-gh/hitsz_course_schedule_ics_converter](https://github.com/rewired-gh/hitsz_course_schedule_ics_converter)：自动获取与 ICS 生成脚本
 - [doby.tech](https://doby.tech)：课表 CalDAV 服务平台
 - [StupidTrees/HITA_X](https://github.com/StupidTrees/HITA_X)：Android 课表 app
+- [Danielement321/HITSZ_course_2_WakeUp](https://github.com/Danielement321/HITSZ_course_2_WakeUp)：本研课表转换到 WakeUp 课表
 
 ### 校园网登录脚本
 
