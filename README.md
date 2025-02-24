@@ -42,6 +42,7 @@
 
 ### 课表
 
+- [Zjl37/jwc.py](https://github.com/Zjl37/jwc.py)：教务课表转 ICS；大物实验排课辅助
 - [rewired-gh/hitsz_course_schedule_ics_converter](https://github.com/rewired-gh/hitsz_course_schedule_ics_converter)：自动获取与 ICS 生成脚本
 - [doby.tech](https://doby.tech)：课表 CalDAV 服务平台
 - [StupidTrees/HITA_X](https://github.com/StupidTrees/HITA_X)：Android 课表 app
