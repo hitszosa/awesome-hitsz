@@ -24,15 +24,16 @@
 
 ## 报告、幻灯片模版
 
-适用于 $\LaTeX$ 等排版系统的模版。
+适用于 $\LaTeX$、Typst 等排版系统的模版。
 
 ### 学位论文
 
-- [YangLaTeX/hitszthesis](https://github.com/YangLaTeX/hitszthesis)
+- [hitszosa/universal-hit-thesis](https://github.com/hitszosa/universal-hit-thesis)：适用于 Typst
+- [YangLaTeX/hitszthesis](https://github.com/YangLaTeX/hitszthesis)：适用于 $\LaTeX$
 
 ### 幻灯片
 
-- [YangLaTeX/hitszbeamer](https://github.com/YangLaTeX/hitszbeamer)
+- [YangLaTeX/hitszbeamer](https://github.com/YangLaTeX/hitszbeamer)：适用于 $\LaTeX$
 
 ## 实用程序
 
