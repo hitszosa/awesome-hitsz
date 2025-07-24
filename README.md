@@ -8,9 +8,9 @@
 
 包含电子版教材、笔记、试卷等，以下排名按项目创建时间升序：
 
-- 计算机专业：[hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS)
+- 计算机专业：[HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)
 
-- 自动化专业：[HITSZ-OpenAuto/HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto) 或 https://hoa.moe 
+- 自动化专业：组织 [HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto) 或项目网址 [hoa.moe](https://hoa.moe)
 
 - 大数据专业：[Dseidhit/HITSZ-OpenDS](https://github.com/Dseidhit/HITSZ-OpenDS)
 
@@ -39,7 +39,7 @@
 
 ### 教务
 
-  - [本研教学服务（官方）](http://due.hitsz.edu.cn/info/1433/3562.htm)
+- [本研教学服务（官方）](http://due.hitsz.edu.cn/info/1433/3562.htm)
 
 ### 课表
 
@@ -56,6 +56,7 @@
 ### EasyConnect VPN 第三方客户端
 
 - [Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect)
+
   - 需要将 `server_address` 配置为 `vpn.hitsz.ed.cn`，`zju_dns_server` 配置为 `10.248.98.30`
   - 或者使用预先配置好的桌面客户端 [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows)
 
@@ -68,14 +69,13 @@
 
 ## 「自救群」
 
-各年级学生自发组织的 QQ 群，内含各类学习资料。
+各年级学生自发组织的 QQ 群，主要用于讨论学业、学习相关问题，内含各类学习资料。
 
+- 2025 级：1053112292
+- 2024 级：424117802
 - 2023 级：869217877
-
 - 2022 级：819560128
-
 - 2021 级：712696446
-
 - 2020 级：876079976
 
 ## GitHub 开源组织
